@@ -1,0 +1,22 @@
+{
+  "name": "brain_tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcelance/brain_tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcelance/brain_tree/issues"
+  },
+  "homepage": "https://github.com/xcelance/brain_tree#readme",
+  "dependencies": {
+    "braintree": "^2.12.0"
+  }
+}
